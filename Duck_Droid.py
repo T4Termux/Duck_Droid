@@ -67,7 +67,7 @@ def banner ():
 
 # configure metasploit is installed or not.
 def Check_requirments ():
-	if os.path.exists ('/sdcard/Duck_Droid') == False :
+	if os.path.exists ("/sdcard/Duck_Droid") == False :
 		os.system ("mkdir /sdcard/Duck_Droid")
 
 	if os.path.exists ('/data/data/com.termux/files/usr/bin/msfconsole') == True :
