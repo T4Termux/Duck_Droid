@@ -6,7 +6,6 @@ This is a simple tool or a script that saves time and generates payload using me
 This is lot of helpful.
 
 # Installation
-=
 ```
 
 apt update
